@@ -1,15 +1,17 @@
 # Hi, I'm Anushka
 
-Computer Science & AI student building full-stack products and AI-powered applications, with a strong interest in thoughtful UI/UX and emerging technologies.
+CS + AI student who likes building things at the intersection of **code, AI, and design**.
 
-I enjoy working across the product journey — from designing interfaces in Figma to building, deploying, and improving real-world applications.
+I like taking an idea from a messy Figma file to an actual working product and yes, I will probably spend way too long fixing a 2px alignment issue along the way.
+
+Currently exploring **AI/ML, agentic systems, full-stack development, and better ways to build products people actually enjoy using.**
 
 ## Currently
 
 * Exploring Agentic AI, LLM applications, and Machine Learning
-* Building full-stack web applications with modern JavaScript frameworks
-* Strengthening my Data Structures & Algorithms fundamentals
-* Working on projects that combine AI, development, and design
+* Building full-stack web applications
+* Getting better at Data Structures & Algorithms
+* Experimenting with AI + design + product ideas
 
 ## Experience
 
@@ -25,23 +27,23 @@ SnapDesk — 2026
 **Web Developer & UI/UX Design Intern**
 TheStratup — 2025
 
-## Featured Projects
+## Projects
 
 ### Cluster
 
-A context-aware bookmarking Chrome extension designed to organize and retrieve bookmarks more intelligently.
+A context-aware bookmarking Chrome extension built to make saving, organizing, and finding bookmarks less painful.
 
 **Tech:** JavaScript, Chrome Extension APIs, Manifest V3
 
 ### Intelligent Learning Analytics & Agentic AI Study Coach
 
-An AI-powered learning analytics platform combining predictive machine learning with an agentic study coach.
+An AI-powered learning platform combining machine learning, learning analytics, and an agentic study coach.
 
 **Tech:** Python, LangGraph, Scikit-learn, FAISS, PostgreSQL
 
 ### SR SpeedX Logistics
 
-A full-stack logistics platform focused on streamlining logistics operations through a modern web interface.
+A full-stack logistics platform built to make logistics operations simpler, faster, and easier to manage.
 
 **Tech:** Next.js, TypeScript, Tailwind CSS, Node.js, PostgreSQL, Prisma
 
@@ -76,6 +78,7 @@ A full-stack logistics platform focused on streamlining logistics operations thr
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=for-the-badge)
 
 ### Tools & Design
 
@@ -92,4 +95,4 @@ Newton School of Technology, Rishihood University
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/anushkaaa-tyagi) • [Email](mailto:anushkatyagi.2013@gmail.com) • [Portfolio] (https://anushkaatyagii.framer.website/)
+[LinkedIn](https://linkedin.com/in/anushkaaa-tyagi) • [Email](mailto:anushkatyagi.2013@gmail.com) • [Portfolio](https://anushkaatyagii.framer.website/)
