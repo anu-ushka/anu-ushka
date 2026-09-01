@@ -18,13 +18,13 @@ Currently exploring **AI/ML, agentic systems, full-stack development, and better
 **Amazon ML Summer School**
 Amazon — 2026
 
-**Full Stack Developer & UI/UX Design Intern**
+**Full Stack Developer & Design Intern**
 SR SpeedX Logistics Pvt. Ltd. — 2026
 
-**Frontend Development & UI/UX Design Intern**
+**Frontend Development & UI Developer Intern**
 SnapDesk — 2026
 
-**Web Developer & UI/UX Design Intern**
+**Web Development & Design Intern**
 TheStratup — 2025
 
 ## Projects
