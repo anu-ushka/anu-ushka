@@ -1,6 +1,6 @@
 # Hi, I'm Anushka
 
-CS + AI student who likes building things at the intersection of **code, AI, and design**.
+Computer Science and Artificial Intelligence student who likes building things at the intersection of **code, AI, and design**.
 
 I like taking an idea from a messy Figma file to an actual working product and yes, I will probably spend way too long fixing a 2px alignment issue along the way.
 
